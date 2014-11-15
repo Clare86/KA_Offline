@@ -1,5 +1,5 @@
 To view your Khan Academy Program offline: 
-If you haven't downloaded the archive through a direct link already, click on the Download ZIP tab at the right of the KA_Offline web page. 
+If you haven't downloaded the archive through a direct link already, click on the Download ZIP tab on the right side of this web page. 
 The archive will automatically pack itself into a ZIP file which will download into your default downloads folder. 
 UnZip the file into the folder of your choice. 
 
